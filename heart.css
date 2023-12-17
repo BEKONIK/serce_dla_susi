@@ -10,7 +10,8 @@
     justify-content:center;
     align-items: center;
     text-align: center;
-    background:url(background/heartback1.png) no-repeat;
+    background-image:url(heartback1.png);
+    background-repeat:no-repeat;
     background-position: center;
     background-size: cover;
     /*background-color: green;*/
